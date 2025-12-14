@@ -1,4 +1,5 @@
-# Type-2-Diabetes-Detection-Model
+# Type 2 Diabetes Detection Using Machine Learning (SVM)
+
 ## Project Overview
 This project presents a machine learning–based system for the early detection of Type 2 Diabetes using clinical and physiological data. The system employs a Support Vector Machine (SVM) classifier trained on the PIMA Indians Diabetes Dataset to identify patterns associated with diabetes and predict the condition for unseen patient data.
 
